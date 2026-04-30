@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-pixel: "Press Start 2P", monospace;
+  --font-vt323: "VT323", monospace;
+}
+
+body {
+  font-family: var(--font-vt323);
+  letter-spacing: 0.05em;
+}

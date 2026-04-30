@@ -1,0 +1,6 @@
+{
+  "name": "Lexitris",
+  "description": "A frantic arcade mix of Tetris and Wordle. Drop letters to discover the hidden 5-letter word! Now featuring pixel art style and 8-bit sound.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
